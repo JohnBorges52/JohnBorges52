@@ -8,7 +8,7 @@
 <a href="https://medium.com/@jrborges52"><img src="https://user-images.githubusercontent.com/105023503/186026388-01d9bc73-c880-41d8-a1c4-fa46d93f2925.png" width="25px" height="25px"> </a>&nbsp;
 
 #### I am a Web Developer in development
-Hi! My name is John, I am Brazilian and for a long time, I have wanted to become a developer. After moving to Canada, I decided to really dive into this area and enrolled in a Web Development Bootcamp at Lighthouse Labs. After that every single day I have been coding and become more in love with learning new things and bringing ideas to life.
+I am Brazilian and for a long time, I have wanted to become a developer. After moving to Canada, I decided to really dive into this area and enrolled in a Web Development Bootcamp at Lighthouse Labs. After that every single day I have been coding and become more in love with learning new things and bringing ideas to life.
 
  🎓 I have a bachelor's in Business Administration and previously was working for Brazil's Government  as a public servant. I also had a 📸 wedding [photography company](https://www.instagram.com/morada14/) in the past which I decided to close when the pandemic hit, now I only take pictures as a hobby.
  
