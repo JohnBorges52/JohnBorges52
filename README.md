@@ -23,7 +23,7 @@ Hi! My name is John, I am Brazilian and for a long time, I have wanted to become
  
 
 ## My Stacks
-<img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=plastic"><img src="https://img.shields.io/badge/CSS3-blue?logo=css3&style=plastic" >
+<img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=plastic"> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&style=plastic" >
 <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=plastic" >
 <img src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=plastic" >
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=plastic" >
