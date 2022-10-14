@@ -15,7 +15,7 @@ I am Brazilian and for a long time, I have wanted to become a developer. After m
  
  #### If you want to see what I have been doing so far, here is a list of my projects!
  
- 🔹[Bunzl Notification](https://github.com/JohnBorges52/Bunzl-Validation-test) OR [WebSite](https://bunzsmsemailtest.onrender.com/) <br/>
+ 🔹[Bunzl Notification](https://github.com/JohnBorges52/Bunzl-Validation-test) OR [WebSite](https://bunzsmsemailtest.onrender.com/) [In development] <br/>
  🔸[AnimePomo Project](https://github.com/JohnBorges52/PomodoroApp) OR [AnimePomo Website](https://animepomo.netlify.app/) <br/>
  🔹[Paper Airplanes Project](https://github.com/JohnBorges52/paper-airplanes)<br/>
  🔸[Scheduler Project](https://github.com/JohnBorges52/scheduler)  OR 
