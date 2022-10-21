@@ -39,8 +39,7 @@ I am Brazilian and for a long time, I have wanted to become a developer. After m
 ## My next steps
  
 
-🚀 I am currently working on learning C# and .NET. <br/>
-📣 My goal is to write at least one article per month about what I have learned in this period. <br/>
+🚀 I am currently working on learning React Native and TypeScript. <br/>
 🧠 Currently searching for my first job in the development area.<br/>
 🕶 Fun Fact: I am a huge fan of Naruto. I even have a tattoo on my arm.<br/>
 
