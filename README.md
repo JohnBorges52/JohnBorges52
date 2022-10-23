@@ -3,7 +3,7 @@
 
 ## Hi, I am John. ✌
 
-<a href="https://www.linkedin.com/in/joao-ricardo/" target="_blank"> <img src="https://user-images.githubusercontent.com/105023503/186022117-a00babe2-759f-4f8d-b18d-259b3c18f60a.png" width="25px" height="25px" ></a>&nbsp;
+<a href="https://www.linkedin.com/in/johnrborges/" target="_blank"> <img src="https://user-images.githubusercontent.com/105023503/186022117-a00babe2-759f-4f8d-b18d-259b3c18f60a.png" width="25px" height="25px" ></a>&nbsp;
 <a href="https://www.instagram.com/gborges52/"><img src="https://user-images.githubusercontent.com/105023503/186026432-3246b209-b279-4cda-878f-56d9f2ec5d97.png" width="25px" height="25px"> </a>&nbsp;
 <a href="https://medium.com/@jrborges52"><img src="https://user-images.githubusercontent.com/105023503/186026388-01d9bc73-c880-41d8-a1c4-fa46d93f2925.png" width="25px" height="25px"> </a>&nbsp;
 
