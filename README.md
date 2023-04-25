@@ -16,7 +16,7 @@ I am Brazilian and for a long time, I have wanted to become a developer. After m
  #### If you want to see what I have been doing so far, here is a list of my projects!
  
  🔸[TypeWhat Project](https://github.com/JohnBorges52/TypeWhat) or in the Website [TypeWhat Website](https://typewhat.netlify.app/) <br/>
- 🔹[World Shop](https://github.com/JohnBorges52/worldshop)<br/> ir in the Website [WordShop Website](https://worldshopproject.netlify.app/)<br/>
+ 🔹[World Shop](https://github.com/JohnBorges52/worldshop) or in the Website [WordShop Website](https://worldshopproject.netlify.app/)<br/>
  🔸[AnimePomo Project](https://github.com/JohnBorges52/PomodoroApp) <br/>
  🔹[Paper Airplanes Project](https://github.com/JohnBorges52/paper-airplanes)<br/>
  🔸[Scheduler Project](https://github.com/JohnBorges52/scheduler) <br/>
